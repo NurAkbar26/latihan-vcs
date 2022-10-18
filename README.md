@@ -31,4 +31,10 @@ menggunakan Windows Explorer)
 • klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, 
 sehingga muncul git bash commad
 • Buat direktory project praktikum pertama 
-
+![Screenshot (15)](https://user-images.githubusercontent.com/115671335/196465773-005d7f5f-e653-4eec-ab4b-0d413c32e973.png)
+Membuat Reposiory Local
+• Jalankan perintah git init, untuk membuat repository local.
+• Repository baru berhasil di inisialisasi, dengan terbentuknya satu 
+direktori hidden dengan nama .git
+• Pada direktori tersebut, semua perubahan pada working directory
+akan disimpan.
