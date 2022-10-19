@@ -42,3 +42,16 @@ Menambahkan File baru pada repository
 • Untuk membuat file dapat menggunakan text editor, lalu menyimpan 
 filenya pada direktori aktif (repository)
 • disini kita akan coba buat satu file bernama README.md 
+Menambahkan File baru pada repository
+• Untuk menambahkan file yang baru saja dibuat tersebut gunakan 
+perintah git add.
+Menambahkan Remote Repository
+• Remote Repository merupakan repository server yang akan 
+digunakan untuk menyimpan setiap perubahan pada local repository, 
+sehingga dapat diakses oleh banyak user.
+• Untuk menambahkan remote repository server, gunakan perintah 
+git remote add origin 
+Clone Repository
+• Clone repository, pada dasarnya adalah meng-copy repository server 
+dan secara otomatis membuat satu direktory sesuai dengan nama 
+repositorynya.
