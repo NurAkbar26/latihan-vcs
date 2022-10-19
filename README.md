@@ -38,3 +38,7 @@ Membuat Reposiory Local
 direktori hidden dengan nama .git
 • Pada direktori tersebut, semua perubahan pada working directory
 akan disimpan.
+Menambahkan File baru pada repository
+• Untuk membuat file dapat menggunakan text editor, lalu menyimpan 
+filenya pada direktori aktif (repository)
+• disini kita akan coba buat satu file bernama README.md 
